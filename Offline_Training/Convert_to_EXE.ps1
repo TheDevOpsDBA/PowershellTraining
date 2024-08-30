@@ -1,0 +1,4 @@
+﻿Invoke-ps2exe -InputFile "C:\Powershell_Training\Other\Server_Health_Check.ps1" -OutputFile "C:\Powershell_Training\Online_Training\Tools_Examples\Server_Health_Check.exe" -noConsole -noOutput
+Invoke-ps2exe -InputFile "C:\Powershell_Training\Other\Servers_PingCheck.ps1" -OutputFile "C:\Powershell_Training\Online_Training\Tools_Examples\Servers_PingCheck.exe" -noConsole -noOutput
+Invoke-ps2exe -InputFile "C:\Powershell_Training\Other\SurveyForm.ps1" -OutputFile "C:\Powershell_Training\Online_Training\Tools_Examples\SurveyForm.exe" -noConsole -noOutput
+Invoke-ps2exe -InputFile "C:\Powershell_Training\Other\Server_Health_Check.ps1" -OutputFile "C:\Powershell_Training\Online_Training\Tools_Examples\Server_Health_Check.exe" -noConsole -noOutput
